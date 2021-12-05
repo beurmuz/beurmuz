@@ -4,7 +4,7 @@ Hi, I'm beurmuz!
 I am a frontend developer who are growing step by step.<br>
 I am very interested in User Interface, User experience and responsive websites.<br><br>
 
-[![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz)](https://github.com/beurmuz/github-readme-stats)
+[![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats)
 
 <br>
 <p><a href="mailto:fallinta2@gmail.com"><img src="https://img.shields.io/badge/ If you want to contact me or give me feedback, please send me an email at 'fallinta2@gmail.com'.-d14836?style=flat-square&logo=Gmail&logoColor=white&link=fallinta2@gmail.com"/></a></p>
