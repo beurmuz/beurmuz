@@ -11,7 +11,7 @@ I am very interested in User Interface, User experience and responsive websites.
 </p>
 
 <h2> Skills 🗺 </h2>
-<h4> 📌 I use it often </h4>
+<h3> 📌 I use it often </h3>
 <p align="left"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -22,7 +22,7 @@ I am very interested in User Interface, User experience and responsive websites.
 <img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 </p>
 
-<h4> 📌 I'm currently learning about </h4>
+<h3> 📌 I'm currently learning about </h3>
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -34,7 +34,7 @@ I am very interested in User Interface, User experience and responsive websites.
 <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
-<h4> 📌 not skilled, but I know how to use it.</h4>
+<h3> 📌 not skilled, but I know how to use it.</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
