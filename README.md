@@ -43,5 +43,5 @@ I am very interested in User Interface, User experience and responsive websites.
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-<p align="right"> <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeurmuz%2F&count_bg=%23BABABA&title_bg=%23EA5377&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
+<p align="right"> <a href="https://github.com/beurmuz"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbeurmuz%2F&count_bg=%23BABABA&title_bg=%23EA5377&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=true"/></a>
 </p>
