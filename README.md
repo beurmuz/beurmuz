@@ -1,6 +1,6 @@
 <h2> Introduce about me 🥰 </h2>
 Hi, I'm beurmuz!
-I am a frontend developer who are growing step by step.<br>
+I am <strong>a frontend developer</strong> who are growing step by step.<br>
 I am very interested in User Interface, User experience and responsive websites.<br>
 
 <!-- [![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats) -->
@@ -20,14 +20,19 @@ I am very interested in User Interface, User experience and responsive websites.
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+<img src="https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white">
 </p>
 
-<h4> 📌 What I'm studying these days. </h4>
+<h4> 📌 I'm currently learning about </h4>
 <p align="left">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-<img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">  
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+<img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white">
+<img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </p>
 
 <h4> 📌 not skilled, but I know how to use it.</h4>
