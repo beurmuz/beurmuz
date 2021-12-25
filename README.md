@@ -7,7 +7,7 @@ I am very interested in User Interface, User experience and responsive websites.
 <br>
 <p>
 <a href="mailto:fallinta2@gmail.com"><img src="https://img.shields.io/badge/contact me!-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=fallinta2@gmail.com"></a>
-<a href="https://velog.io/@muz"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@muz"></a>  
+<!-- <a href="https://velog.io/@muz"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@muz"></a>   -->
 </p>
 
 <h2> Skills 🗺 </h2>
