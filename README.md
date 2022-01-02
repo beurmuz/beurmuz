@@ -1,12 +1,12 @@
 <h2> Introduce about me 🥰 </h2>
-<!-- Hi, I'm beurmuz!
+Hi, I'm beurmuz!
 I am <strong>a frontend developer</strong> who are growing step by step.<br>
-I am very interested in User Interface, User experience and responsive websites.<br> -->
+I am very interested in User Interface, User experience and responsive websites.<br>
 <!-- [![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats)
  -->
-<!-- <br>
-<p> -->
-<!-- <a href="mailto:fallinta2@gmail.com"><img src="https://img.shields.io/badge/contact me!-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=fallinta2@gmail.com"></a> -->
+<br>
+<p>
+<a href="mailto:fallinta2@gmail.com"><img src="https://img.shields.io/badge/contact me!-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=fallinta2@gmail.com"></a>
 <!-- <a href="https://velog.io/@muz"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@muz"></a>   -->
 <!-- </p>
 
@@ -28,6 +28,7 @@ I am very interested in User Interface, User experience and responsive websites.
 <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
 <img src="https://img.shields.io/badge/postcss-DD3A0A?style=for-the-badge&logo=postcss&logoColor=white"> -->
