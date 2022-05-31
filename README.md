@@ -1,12 +1,12 @@
 <h2> Introduce about me ! </h2>
 Hi, I'm beurmuz.
-I am <strong>a frontend developer</strong> who are growing step by step.<br>
-<!-- [![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats)
- -->
+I am a frontend developer who are growing step by step.<br>
+If you want to contact me, please send an email to fallinta2@gmail.com.
+<!-- [![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats) -->
+
 <br>
-<p>
-<a href="mailto:fallinta2@gmail.com"><img src="https://img.shields.io/badge/contact me!-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=fallinta2@gmail.com"></a>
-<!-- <a href="https://velog.io/@muz"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@muz"></a>   -->
+<!-- <p>
+<a href="https://velog.io/@muz"><img src="https://img.shields.io/badge/velog-11B48A?style=for-the-badge&logo=Vimeo&logoColor=white&link=https://velog.io/@muz"></a>   -->
 <!-- </p>
 
 <h2> Skills 🗺 </h2>
