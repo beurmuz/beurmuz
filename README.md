@@ -1,5 +1,5 @@
-<h2> Introduce about me 🥰 </h2>
-Hi, I'm beurmuz!
+<h2> Introduce about me ! </h2>
+Hi, I'm beurmuz.
 I am <strong>a frontend developer</strong> who are growing step by step.<br>
 <!-- [![beurmuz's GitHub stats](https://github-readme-stats.vercel.app/api?username=beurmuz&count_private=true&show_icons=true&theme=dracula)](https://github.com/beurmuz/github-readme-stats)
  -->
